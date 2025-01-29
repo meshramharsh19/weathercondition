@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+    /* height: 100%; */
+    
+}
+header{
+    height: 80px;
+    width: 100%;
+    background :linear-gradient(135deg,#00feba,#5b548a);
+   
+}
+
+
+.container{
+    height: 70%;
+    width: 100%;
+    background :linear-gradient(135deg,#00feba,#5b548a);
+    color: #fff;
+    padding: 3.7037vh 3.2px;
+    text-align: center;
+    
+}
+.search{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7.4074vh;
+}
+.search input{
+    border: 0;
+    outline: 0;
+    background-color: #ebfffc;
+    color: #555;
+    padding: 	0.926vh 2.5px;
+    height: 	5.5556vh;
+    border-radius: 3.0vh;
+    flex: 0.4;
+    margin-right: 1.6vh;
+    font-size: 2.2vh;
+
+}
+.search button{
+    border: 0;
+    outline: 0;
+    background-color: #ebfffc;
+    border-radius: 50%;
+    width: 	3.125vw;
+    height: 5.5556vh;
+    cursor: pointer;
+    
+    /* align-items: center;
+    justify-content: center; */
+}
+.search button img{
+    width: 2vh;
+}
+.weather-icon{
+    width: 170px;
+    margin-top: 80px;
+    
+}
+.weather h1{
+    font-size: 6.854vw;
+    font-weight: 500;
+    
+}
+.weather h2{
+    font-size: 	2.604vw;
+    font-weight: 400;
+    margin-top: -0.926vh;
+    margin-bottom:7.4074vh;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 	1.8519vh;
+    margin-top: 4.63vh;
+}
+.temp{
+    margin-top: 29px;
+    margin-bottom: 29px;
+}
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left; 
+}
+.col img{
+    width: 	3.646vw;
+    margin-right: 0.926vh;
+    justify-content: space-between;
+}
+.humidity, .wind{
+    font-size: 2.5926vh;
+    margin-top: -0.9216589861751152vh;
+}
+footer{
+    /* height: 60px; */
+    width: 100%;
+    background :linear-gradient(135deg,#00feba,#5b548a);
+    
+    /* display: block; */
+    }
+    .safe {
+        height: 10px;
+        width: 100%;
+        /* background-color: red; */
+    }
+.foot
+{
+height: 300px;
+width: 100%;
+/* background :linear-gradient(135deg,#00feba,#5b548a); */
+margin: 13.824884792626728vh;
+/* display: block; */
+}
+.aboutus{
+    margin-top: 4.1443932411674345vh;
+}
